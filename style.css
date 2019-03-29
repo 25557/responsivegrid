@@ -173,9 +173,9 @@ footer {
     grid-template-areas: "kop kop kop"
       "t1 t2 afb"
       "t3 t4 afb"
-      "t5 t6 afb"
+      "t5 t6 aside"
       "t7 t8 aside"
       "t9 t10 aside"
-      "voet voet voet";
+      "voet voet aside";
   }
 }
