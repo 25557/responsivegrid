@@ -7,7 +7,7 @@ html, body, h3 {
 }
 
 header, aside {
-  background-color: rgba(180, 220, 255, 0.5);
+  background-color: rgba(253, 216, 53, 0.5);
 }
 
 header {
@@ -19,7 +19,7 @@ h1, h3 {
 }
 
 h1, .tagline {
-  color: #47a;
+  color: #E65100;
 }
 
 section {
@@ -29,7 +29,7 @@ section {
 }
 
 .nummer {
-  background-color: #47a;
+  background-color: #F57F17;
   color: #FFF;
   font-size: 3em;
   width: 1.2em;
@@ -53,19 +53,20 @@ aside ul {
 }
 
 aside h3 {
-  background-color: #47a;
+  background-color: #F57F17;
   padding: 2em;
   color: #FFF;
 }
 
 aside a {
   text-decoration: none;
+  color: #BF360C;
   display: block;
   padding: 2em;
 }
 
 aside a:hover {
-  background-color: #47a;
+  background-color: #F57F17;
   color: #FFF;
 }
 
@@ -92,9 +93,9 @@ footer {
       "t5 t6"
       "afb t6"
       "afb t7"
-      "t8 aside"
-      "t9 aside"
-      "t10 aside"
+      "aside t8"
+      "aside t9"
+      "aside t10"
       "voet voet";
   }
 
